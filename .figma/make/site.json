@@ -1,0 +1,11 @@
+{
+  "title": "Qatar Scrap | Scrap Buyer in Qatar",
+  "description": "Qatar Scrap buys steel, copper, cable, aluminium, brass, batteries, AC units, motors, plastic, PVC and more, with collection and demolition services across Qatar.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
